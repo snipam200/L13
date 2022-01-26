@@ -61,7 +61,7 @@ Laid low their towers and houses frail
 
 Kiedy? :moon: Co? :beer:
 
--Wez mu twarz <mark>bardziej zolta zrob</mark>
+-Wez mu twarz ==bardziej zolta zrob==  
 -Karol, tak nie wolno,
 
 - [x] Wszystko
