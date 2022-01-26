@@ -1,8 +1,8 @@
 ### Naglowki
 
-[Tabela](#id1)
-[J.R.R.T](#id2)
-[Reszta](#id3)
+[Tabela](#id1)  
+[J.R.R.T](#id2)  
+[Reszta](#id3)  
 
 ### Tabela {#id1}
 
